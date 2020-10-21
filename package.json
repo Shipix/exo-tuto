@@ -1,0 +1,19 @@
+{
+  "name": "exo-tuto",
+  "version": "1.0.0",
+  "description": "projet tuto avec SiprodZz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shipix/exo-tuto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shipix/exo-tuto/issues"
+  },
+  "homepage": "https://github.com/Shipix/exo-tuto#readme"
+}
